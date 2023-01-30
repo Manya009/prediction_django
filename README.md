@@ -34,7 +34,7 @@ House Price Prediction (New York Houses)
 ![image](https://user-images.githubusercontent.com/94184147/215551859-e7dd00d0-0272-4b27-a773-60944f07923e.png)
 
 2. Selecting the inputs 
-![image](https://user-images.githubusercontent.com/94184147/215551967-03a00abb-92e9-4863-b8bb-a5bd5710c414.png)
+![image](https://user-images.githubusercontent.com/94184147/215555688-4dbeab56-f80a-41ca-a629-964280043578.png)
 
 4. The final prediction($) using Linear Regression (ML)
 ![image](https://user-images.githubusercontent.com/94184147/215551993-0284ccdf-9558-4506-9f7b-34900c185d6b.png)
