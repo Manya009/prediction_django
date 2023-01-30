@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <title>Car Price Prediction</title>
+    <style>#rightbox{float:right;}</style>
+
+</head>
+
+<body class="p-3 mb-2 bg-dark-subtle text-emphasis-dark">
+
+<div id = "rightbox">
+<a href="/" class="btn btn-primary">Home</a>
+</div>
+
+<h1> Car Price Prediction 🚗 </h1><br>
+<div class="d-flex justify-content-center">
+<div class="w-75 p-3 mb-2 bg-dark text-white ">
+<div class="container">
+   <form action="" method="POST">
+       {% csrf_token %}
+
+       <label><b>Car Company:</b></label>
+       <select name="company" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" id="company" required onchange="load_cmodel(this.id, 'cmodel')">
+           <option value="" disabled selected>Select Company Name</option>
+           {% for company in companies %}
+                <option value="{{ company }}">{{ company }}</option>
+           {% endfor %}
+       </select>
+       <br>
+
+       <label><b>Car Model:</b></label>
+       <select name="cmodel" id="cmodel" required class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+           <option value="" disabled selected>Select Car Model</option>
+       </select>
+       <br>
+
+       <label><b>Year Purchased:</b></label>
+       <select name="year" required class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+           <option value="" disabled selected>Select Year of Purchase</option>
+           {% for year in years %}
+           <option value="{{ year }}">{{ year }}</option>
+           {% endfor %}
+       </select>
+       <br>
+
+        <label for="range2" class="form-label"><b>Kilometers Driven: </b></label>
+        <span id="spanResult">0</span>
+        <input type="range" class="form-range" name="kms" min="0" max="60000" id="range2" onclick="display()" required>
+        <br>
+
+       <label><b>Fuel Type:</b></label>
+       <select name="fuel" required class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+           <option value="" disabled selected>Select Fuel Type</option>
+           {% for fuel_type in fuel_types %}
+           <option value="{{ fuel_type }}">{{ fuel_type }}</option>
+           {% endfor %}
+       </select>
+       <br>
+
+       <div class="d-flex justify-content-center">
+           <input type="submit" class="btn btn-primary btn-lg" align="center"><br></div>
+
+       {%if reslut%}
+       {%if reslut < 0 %}
+       <h2> Sorry, the Car is Not Saleable 😞</h2>
+       {%else%}
+        <h2><br>Predicted Price of the Car is  ₹{{reslut}} </h2><br>
+       {%endif%}
+       {%endif%}
+
+   </form>
+</div>
+</div>
+<script>
+
+    function display(){
+    var txt = document.getElementById('range2').value;
+    document.getElementById('spanResult').textContent = txt;
+    }
+
+
+    function load_cmodel(company_id,cmodel_id)
+    {
+        var company=document.getElementById(company_id);
+        var car_model= document.getElementById(cmodel_id);
+        cmodel.value="";
+        cmodel.innerHTML="";
+
+        {% for company in companies %}
+            if( company.value == "{{ company }}")
+            {
+                {% for cmodel in cmodels %}
+                    {% if company in cmodel %}
+
+                        var newOption= document.createElement("option");
+                        newOption.value="{{ cmodel }}";
+                        newOption.innerHTML="{{ cmodel }}";
+                        cmodel.options.add(newOption);
+                    {% endif %}
+                {% endfor %}
+            }
+        {% endfor %}
+    }
+
+</script>
+</div>
+
+
+</body>
+</html>
