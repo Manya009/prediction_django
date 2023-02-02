@@ -1,0 +1,388 @@
+,Name,City,Neighbourhood,Price,Year Built,Beds,Baths,Area,Price(per sqft),A/C
+0,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+1,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+2,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+3,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+4,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+5,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+6,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+7,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+8,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+9,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+10,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+11,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+12,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+13,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+14,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+15,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+16,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+17,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+18,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+19,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+20,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+21,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+22,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+23,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+24,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+25,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+26,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+27,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+28,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+29,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+30,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+31,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+32,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+33,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+34,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+35,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+36,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+37,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+38,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+39,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+40,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+41,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+42,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+43,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+44,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+45,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+46,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+47,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+48,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+49,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+50,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+51,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+52,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+53,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+54,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+55,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+56,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+57,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+58,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+59,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+60,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+61,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+62,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+63,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+64,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+65,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+66,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+67,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+68,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+69,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+70,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+71,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+72,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+73,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+74,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+75,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+76,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+77,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+78,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+79,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+80,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+81,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+82,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+83,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+84,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+85,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+86,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+87,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+88,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+89,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+90,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+91,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+92,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+93,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+94,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+95,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+96,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+97,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+98,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+99,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+100,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+101,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+102,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+103,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+104,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+105,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+106,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+107,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+108,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+109,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+110,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+111,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+112,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+113,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+114,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+115,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+116,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+117,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+118,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+119,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+120,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+121,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+122,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+123,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+124,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+125,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+126,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+127,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+128,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+129,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+130,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+131,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+132,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+133,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+134,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+135,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+136,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+137,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+138,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+139,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+140,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+141,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+142,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+143,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+144,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+145,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+146,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+147,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+148,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+149,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+150,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+151,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+152,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+153,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+154,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+155,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+156,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+157,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+158,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+159,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+160,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+161,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+162,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+163,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+164,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+165,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+166,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+167,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+168,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+169,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+170,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+171,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+172,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+173,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+174,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+175,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+176,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+177,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+178,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+179,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+180,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+181,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+182,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+183,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+184,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+185,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+186,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+187,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+188,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+189,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+190,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+191,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+192,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+193,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+194,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+195,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+196,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+197,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+198,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+199,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+200,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+201,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+202,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+203,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+204,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+205,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+206,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+207,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+208,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+209,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+210,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+211,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+212,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+213,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+214,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+215,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+216,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+217,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+218,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+219,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+220,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+221,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+222,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+223,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+224,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+225,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+226,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+227,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+228,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+229,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+230,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+231,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+232,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+233,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+234,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+235,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+236,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+237,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+238,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+239,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+240,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+241,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+242,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+243,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+244,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+245,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+246,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+247,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+248,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+249,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+250,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+251,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+252,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+253,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+254,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+255,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+256,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+257,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+258,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+259,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+260,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+261,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+262,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+263,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+264,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+265,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+266,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+267,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+268,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+269,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+270,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+271,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+272,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+273,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+274,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+275,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+276,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+277,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+278,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+279,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+280,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+281,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+282,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+283,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+284,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+285,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+286,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+287,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+288,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+289,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+290,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+291,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+292,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+293,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+294,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+295,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+296,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+297,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+298,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+299,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+300,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+301,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+302,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+303,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+304,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+305,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+306,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+307,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+308,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+309,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+310,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+311,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+312,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+313,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+314,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+315,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+316,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+317,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+318,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+319,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+320,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+321,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+322,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+323,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+324,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+325,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+326,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+327,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+328,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+329,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+330,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+331,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+332,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+333,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+334,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+335,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+336,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+337,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+338,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+339,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+340,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+341,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+342,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+343,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+344,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+345,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+346,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,1 Bed,2 Baths,Null,No Info,Cooling only
+347,321 E 43rd St #515,"New York, NY 10017",Turtle Bay,"$320,000",Year Built: 1928,Studio,1 Bath,Null,No Info,No
+348,150-23 Hoover Avenue,"Jamaica, NY 11432",Briarwood,"$969,000",Year Built: 1945,4 Beds,2 Baths,Null,No Info,Heating only
+349,3656 Johnson Ave #2G,"Bronx, NY 10463",Riverdale,"$179,000",Year Built: 1932,1 Bed,1 Bath,800 sqft,$224,No
+350,180-16 Wexford Terrace UNIT 2F,"Jamaica, NY 11432",Jamaica Estates,"$550,000",Year Built: 1986,1 Bed,1 Bath,764 sqft,$720,Heating & Cooling
+351,43-55 Kissena Blvd UNIT 3B,"Flushing, NY 11355",Flushing,"$575,000",Year Built: 1938,2 Beds,1 Bath,Null,No Info,Heating & Cooling
+352,580 Carroll St #4C,"Brooklyn, NY 11215",Park Slope,"$1,600,000",Year Built: 2009,2 Beds,2 Baths,"1,275 sqft","$1,255",Cooling only
+353,398 Kings Hwy #203,"Brooklyn, NY 11223",Gravesend,"$843,500",Year Built: 2022,2 Beds,2 Baths,"1,140 sqft",$740,Cooling only
+354,377 Rector Pl #11A,"New York, NY 10280",Battery Park,"$850,000",Year Built: 1985,1 Bed,1 Bath,650 sqft,"$1,308",No
+355,3112 Mickle Avenue,"Bronx, NY 10469",Baychester,"$450,000",Year Built: 1899,2 Beds,2 Baths,"1,180 sqft",$381,Heating only
+356,35-42 77th St #22,"Jackson Heights, NY 11372",Jackson Heights,"$849,000",Year Built: 1921,2 Beds,2 Baths,"1,100 sqft",$772,No
+357,1247 E 86th Street,"Brooklyn, NY 11236",Canarsie,"$999,900",Year Built: 1955,7 Beds,4 Baths,Null,No Info,Heating only
+358,11 Quinn St,"Staten Island, NY 10304",Stapleton,"$395,000",Year Built: 1915,3 Beds,2 Baths,916 sqft,$431,Heating & Cooling
+359,22 Windham Loop #1A,"Staten Island, NY 10314",Heartland Village,"$408,888",Year Built: 1975,2 Beds,2 Baths,934 sqft,$438,Heating & Cooling
+360,3324 Junction Blvd #5X,"Jackson Heights, NY 11372",Jackson Heights,"$285,000",Null,1 Bed,1 Bath,800 sqft,$356,Cooling only
+361,37-26 32nd St #5K,"Long Island City, NY 11101",Astoria,"$620,000",Year Built: 2022,Studio,1 Bath,441 sqft,"$1,406",Cooling only
+362,37-26 32nd St #3G,"Long Island City, NY 11101",Astoria,"$730,000",Year Built: 2022,1 Bed,1 Bath,579 sqft,"$1,261",Cooling only
+363,37-26 32nd St #6L,"Long Island City, NY 11101",Astoria,"$570,000",Year Built: 2022,Studio,1 Bath,429 sqft,"$1,329",Cooling only
+364,37-26 32nd St #3H,"Long Island City, NY 11101",Astoria,"$695,000",Year Built: 2022,1 Bed,1 Bath,632 sqft,"$1,100",No
+365,4 E 88th St #5C,"New York, NY 10128",Carnegie Hill,"$1,200,000",Year Built: 1922,2 Beds,2 Baths,Null,No Info,No
+366,2736 Independence Ave #6J,"Bronx, NY 10463",Spuyten Duyvil,"$235,995",Year Built: 1970,1 Bed,1 Bath,850 sqft,$278,No
+367,216-02 67th Ave #D,"Oakland Gardens, NY 11364",Oakland Gardens,"$388,000",Null,2 Beds,2 Baths,Null,No Info,No
+368,450 Jersey St,"Staten Island, NY 10301",New Brighton,"$1,300,000",Year Built: 1920,Studio,5 Baths,"6,300 sqft",$206,Heating & Cooling
+369,1518 Canarsie Rd,"Brooklyn, NY 11236",Canarsie,"$925,000",Year Built: 1910,6 Beds,4 Baths,"1,816 sqft",$509,Heating & Cooling
+370,77-14 113th Street UNIT 3C,"Forest Hills, NY 11375",Forest Hills,"$299,000",Year Built: 1938,1 Bed,1 Bath,Null,No Info,Heating & Cooling
+371,86-19 115th Street,"Richmond Hill, NY 11418",Richmond Hill,"$619,000",Year Built: 1920,3 Beds,2 Baths,Null,No Info,Heating only
+372,137-08 31st Rd #2,"Flushing, NY 11354",Flushing,"$628,000",Year Built: 2007,2 Beds,2 Baths,842 sqft,$746,No
+373,97-40 62nd Dr #8F,"Rego Park, NY 11374",Rego Park,"$285,000",Year Built: 1955,1 Bed,1 Bath,Null,No Info,Heating only
+374,117 E 57th St #41F,"New York, NY 10022",Midtown,"$752,400",Year Built: 1975,Studio,1 Bath,513 sqft,"$1,467",No
+375,433 Monroe St,"Brooklyn, NY 11221",Bedford Stuyvesant,"$2,195,000",Year Built: 1899,5 Beds,4 Baths,"2,400 sqft",$915,Heating & Cooling
+376,661 Amsterdam Ave #5E,"New York, NY 10025",Upper West Side,"$1,249,500",Year Built: 1940,2 Beds,2 Baths,"100,964 sqft (on 0.46 acres)",$12,No
+377,6243 79th St,"Flushing, NY 11379",Middle Village,"$859,000",Year Built: 1940,2 Beds,2 Baths,880 sqft,$976,Heating only
+378,99-12 199th Street,"Hollis, NY 11423",Hollis,"$775,000",Year Built: 1950,4 Beds,3 Baths,Null,No Info,Heating & Cooling
+379,1619 3rd Ave #3B,"New York, NY 10128",Upper East Side,"$635,000",Year Built: 1975,Studio,1 Bath,528 sqft,"$1,203",Cooling only
+380,2339 Matthews Ave #W,"Bronx, NY 10467",Williamsbridge,"$569,000",Year Built: 1950,5 Beds,2 Baths,Null,No Info,No
+381,43 Joralemon St,"Brooklyn, NY 11201",Brooklyn Heights,"$4,500,000",Year Built: 1845,5 Beds,6 Baths,"3,192 sqft","$1,410",No
+382,195 Classon Ave #5,"Brooklyn, NY 11205",Bedford Stuyvesant,"$1,395,000",Year Built: 2008,2 Beds,2 Baths,"1,185 sqft","$1,177",No
+383,140 E 2nd St #6U,"Brooklyn, NY 11218",Windsor Terrace,"$595,000",Year Built: 1940,1 Bed,1 Bath,Null,No Info,No
+384,410 Maryland Ave #1C,"Staten Island, NY 10305",Rosebank,"$279,900",Year Built: 1974,2 Beds,1 Bath,"1,100 sqft",$254,Heating & Cooling
+385,2415 E 64th St,"Brooklyn, NY 11234",Mill Basin,"$1,089,000",Year Built: 1965,4 Beds,3 Baths,"1,899 sqft",$573,Heating & Cooling
+386,150 E 69th St #3M,"New York, NY 10065",Upper East Side,"$1,825,000",Year Built: 1959,2 Beds,2 Baths,Null,No Info,Cooling only
